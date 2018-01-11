@@ -8,3 +8,5 @@ git commit -m "Comentário" = Commita as alterações realizadas com um comentá
 git log --decorate = exibe informações sobre os commits
 git log --author="Bruno" = exibe informações do autor Bruno
 git log --graph = exibe em forma gráfica as alterações dos arquivos
+git diff = lista as modificações
+git checkout = desfaz a alterações, undo changes
