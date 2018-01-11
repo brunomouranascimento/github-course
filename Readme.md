@@ -17,3 +17,7 @@ git reset = reseta o estado do commit; --soft: remove o commit, mas mantém o ar
 
 git remote add origin https://github.com/brunomouranascimento/github-course.git = Adiciona o repositorio local ao remoto
 git push -u origin master = envia os arquivos para o repositorio remoto
+
+git clone = clona um repositorio do github
+
+git tag -a 1.0.0 -m "Readme finalizado"
